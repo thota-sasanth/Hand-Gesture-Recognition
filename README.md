@@ -6,7 +6,7 @@ The main aim of this project is to make conversation between the deaf and dumb p
 
 Here is the demo of Hand Gesture Recognition - <br>
 <br>
-
+<br>
 <p align="center">
   <img src="https://github.com/thota-sasanth/Hand-Gesture-Recognition/blob/master/hand-ges.gif">
 </p>
