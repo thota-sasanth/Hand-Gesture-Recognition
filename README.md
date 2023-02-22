@@ -20,7 +20,7 @@ Created own dataset by following the American Sign Language for alphabets, speci
 <br>
 <br>
 <p align="center">
-  <img src="https://github.com/thota-sasanth/Hand-Gesture-Recognition/blob/master/hand-data.png" width="500" height="500">
+  <img src="https://github.com/thota-sasanth/Hand-Gesture-Recognition/blob/master/hand-data.png" width="700" height="500">
 </p>
 <br>
 
