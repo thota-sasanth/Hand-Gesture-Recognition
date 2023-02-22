@@ -31,3 +31,4 @@ The model architecture includes the Deep Convolution Neural Network. The network
 ## Results
 This model recognizes hand gestures from a live video sequence. It can predict various signs and gestures with overall accuracy of 92%. It also translates  hand gestures into both text and speech using Python gTTS. It is dynamic as users can create their own custom gestures and then train the model before using those custom gestures.
 <br>
+<br>
