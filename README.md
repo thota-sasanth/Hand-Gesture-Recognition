@@ -4,7 +4,7 @@ The main aim of this project is to make conversation between the deaf and dumb p
 
 ## Demo
 
-Here is the demo of Hand Gesture Recognition - 
+Here is the demo of Hand Gesture Recognition - <br>
 <br>
 
 <p align="center">
